@@ -1,4 +1,12 @@
 {
-  "schemaVersion": 1,
-  "available": false
+    "schemaVersion":  1,
+    "available":  true,
+    "applicationId":  "se.mytv.app",
+    "versionCode":  1000050,
+    "versionName":  "0.4.0",
+    "minSdk":  26,
+    "apkUrl":  "https://github.com/jonasmelander-source/tvpal-updates/releases/download/tv-1000050/tvpal-tv-signed-1000050.apk",
+    "sizeBytes":  15266735,
+    "sha256":  "8296f4ccb9e7d3dbbbf2ebbbe41b1a2a7f141e5acd9feac746524244348c98e8",
+    "notes":  "Ny signerad TvPal TV-version."
 }
